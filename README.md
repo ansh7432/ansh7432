@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ansh7432
+- 👋 Hi, I’m Ishaan Soni
 - 👀 I’m interested in Coding, Web Development, DSA
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ... anshsoni743@gmail.com
