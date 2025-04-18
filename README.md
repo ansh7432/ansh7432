@@ -15,17 +15,17 @@ I'm a B.Tech CSE Pre-Final Year student at PDPM IIITDM Jabalpur, passionate abou
 ## 🚀 About Me
 
 - 👀 **Interests:** Full-stack Web Development (React, Node.js), Data Structures & Algorithms, Competitive Programming, Open Source.
-- 🌱 **Currently Learning:** [Mention a new technology/framework, e.g., Next.js, System Design Concepts]
+- 🌱 **Currently Learning:** Scala
 - 💞️ **Looking to Collaborate On:** Open-source projects, especially those involving web technologies or algorithms.
 - 📫 **Connect with Me:** anshsoni743@gmail.com
 - 😄 **Pronouns:** He/Him
 
 ## 🛠️ Skills
 
-*   **Languages:** JavaScript, Python, Java, C++, HTML, CSS
+*   **Languages:** JavaScript, Python, Java, C++, HTML, CSS, 
 *   **Frameworks/Libraries:** React, Node.js, Express, [Add others like Bootstrap, Tailwind CSS, etc.]
-*   **Databases:** MongoDB, SQL, [Add others]
-*   **Tools & Platforms:** Git, GitHub, Docker, VS Code, Linux, [Add others]
+*   **Databases:** MongoDB, SQL
+*   **Tools & Platforms:** Git, GitHub, Docker, VS Code, Linux,
 
 ## 📊 My GitHub Activity
 
