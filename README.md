@@ -43,6 +43,3 @@ I'm a B.Tech CSE Pre-Final Year student at PDPM IIITDM Jabalpur, passionate abou
   </picture>
 </a>
 
----
-
-*This README uses stats/visualizations from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [GitHub Contribution Grid Snake](https://github.com/platane/snk).*
